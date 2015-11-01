@@ -14,6 +14,7 @@ namespace ODG.Windows
 
         public MainGame()
         {
+            // load up artemis here
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
         }
